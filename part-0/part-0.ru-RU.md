@@ -37,7 +37,7 @@
 ### Accounts
 
 - [Jira](https://www.atlassian.com/software/jira)
-	- The Jira project is [Artists Learn Unity](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU)
+	- The Jira project is [Artists Learn Unity](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1)
 - [GitHub](https://github.com/)
 	- The GitHub project is [Artists learn Unity](https://github.com/alexander-yu-shamin/artists-learn-unity)
 
@@ -56,7 +56,7 @@
 - [Технический художник (gamedev) – редкая, а значит хорошо оплачиваемая профессия?](https://3dyuriki.com/2021/06/05/tehnicheskij-hudozhnik-gamedev-redkaya-a-znachit-horosho-oplachivaemaya-professiya/)
 - [Unity с позиции художника при разработке кроссплатформенной игры / Хабр](https://habr.com/ru/post/308918/)
 
-# Глава 1
+# Глава 0
 **Цели главы:**
 - [ ] установить необходимые приложения
 - [ ] создать необходимые аккаунты
@@ -73,14 +73,44 @@
   - GitHub проект => [Artists learn Unity](https://github.com/alexander-yu-shamin/artists-learn-unity)
 - пока ждем доступ, можно ознакомится с [подборкой ресурсов](#информация-для-развлечения)
 
-# Глава 2
+**Примечания для ментора:**
+- при выдаче доступа, создать в [Jira](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1) набор задач для каждого пользователя.
+
+# Глава 1
 
 **Цели главы:**
 - [ ] изучить Jira и принципы командной работы
   - [ ] выполнить первую поставленную задачу в Jira
 - [ ] изучить основы Git
-- [ ] форкнуть репозиторий, добавить изменения, создать пулл реквест на добавление в основной репозиторий
+- [ ] форкнуть репозиторий, добавить изменения, создать пулл реквест на добавление в основной репозиторий, создать issue
 - [ ] попробовать сделать merge, cherry-pick
 
-
 **Последовательность действий:**
+- изучаем Jira:
+  - изучаем общие вопросы [совместной работы над проектом](https://www.atlassian.com/ru/work-management/project-collaboration)
+  - знакомимся с [общими подходами в управлении проектами](https://www.atlassian.com/ru/agile/manifesto)
+  - находим свои задачи в [Jira](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1)
+  - выполняем задачу Chapter 1:
+    - находим свою задачу - и перемещаем ее в Board в In Progress состояние
+    - заполняем поля: Start Date, Time tracking
+    - упоминаем в комментариях ментора, добавляем его в ревьюверы (если его там нет)
+    - переносим задачу в Review состояние
+  - ожидаем проверку задачи (будет перемещена в Done статус), переходим к следующей задаче
+- ознакамливаемся с курсом: [Основы работы с Git, GitHub и даже GitHub Actions | Udemy](https://www.udemy.com/course/russian-git/?start=0#overview)
+- выбираем себе [курс](https://habr.com/ru/post/510126/) и бегло его просматриваем, самый лучший курс [Git - Documentation](https://git-scm.com/doc)
+- для визуалов советую [Learn Git Branching](https://learngitbranching.js.org/) - чтобы видеть что происходит 
+- начинаем эксперименты:
+  - с помощью SourceTree и Github - форкаем текущий репозиторий.
+  - клонируем форкнутый репозиторий к себе на машину
+  - в директории students создаем свою директорию (например alexander-yu-shamin)
+  - добавляем в эту директорию файл README.MD и добавляем своей краткое faq. Используем [Markdown](https://www.markdownguide.org/cheat-sheet/) - специальный язык разметки текста
+  - создаем коммит с добавленной информацией, проверяем что добавили только необходимую информацию.
+  - пушим добавленные изменения в свой форкнутрый репозиторий!!!
+  - переходим в основной [репозиторий](https://github.com/alexander-yu-shamin/artists-learn-unity) и создаем pull request.
+  - отмечаемся в Issues 'Chapter 1'
+- в [Learn Git Branching](https://learngitbranching.js.org/) пробуем сделать merge, cherry-pick, squash, reset - чтобы понять что это такое.
+
+Переходим к следующей главе.
+
+**Примечания для ментора:**
+- проверить настройки на github и jira
