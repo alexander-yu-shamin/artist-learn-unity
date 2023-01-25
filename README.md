@@ -19,7 +19,7 @@ English | [Русский](./README.ru-RU.md)
 
 <div align="center">
 
-# Artists learn Unity [![Telegram Badge](https://img.shields.io/badge/-_-white?style=social&logo=Telegram&link=https://t.me/+Q7LjrVd8wjZjOWM6)](https://t.me/+Q7LjrVd8wjZjOWM6) [![Jira Badge](https://img.shields.io/badge/-_-white?style=social&logo=Jira&link=https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1)](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1) 
+# Artists learn Unity [![Telegram Badge](https://img.shields.io/badge/-_-white?style=social&logo=Telegram&link=https://t.me/artists_learn_unity)](https://t.me/artists_learn_unity) [![Jira Badge](https://img.shields.io/badge/-_-white?style=social&logo=Jira&link=https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1)](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1) 
 
 ![](assets/logo.jpg)
 

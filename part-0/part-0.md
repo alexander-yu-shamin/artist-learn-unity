@@ -38,6 +38,8 @@ If possible, the project will be conducted in a bilingual format, but the main l
 	- The Jira project is [Artists Learn Unity](https://artists-learn-unity.atlassian.net/jira/software/projects/ALU/boards/1)
 - [GitHub](https://github.com/)
 	- The GitHub project is [Artists learn Unity](https://github.com/alexander-yu-shamin/artists-learn-unity)
+- [Telegram](https://web.telegram.org/k/)
+  - The main channel is [Artists learn Unity](https://t.me/artists_learn_unity)
 
 
 ## Information for fun
