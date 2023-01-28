@@ -29,14 +29,34 @@
 
 ---
 
+<details>
+  <summary>Основная информация</summary>
+
 Проект по изучению [Unity](https://unity.com/).
 Основан любителем из идеи помочь коллегам-художникам расширить свои возможности в [Unity](https://unity.com/) и самому научиться новому.
 
 Любые замечания и предложения приветствуются.
 
+</details>
+
+---
+<details>
+  <summary>Дополнительная информация</summary>
+
+  Проект будет планомерно дополняться информацией. Следите за обновлениями.
+
+  По возможности проект будет вестись в билингва формате, но основным языком будет русский.
+
+  Вопросы, предложения, общение в  [![Telegram Badge](https://img.shields.io/badge/-_-white?style=social&logo=Telegram&link=https://t.me/artists_learn_unity)](https://t.me/artists_learn_unity)
+
+</details>
+
+
+
+
 ---
 
-- [Цели](part-0/goals.ru-RU.md)
+- [Цели](goals.ru-RU.md)
 - [Введение](part-0/part-0.ru-RU.md)
 - [Часть 1](part-1/part-1.ru-RU.md)
 - [Часть 2](part-2/part-2.ru-RU.md)
