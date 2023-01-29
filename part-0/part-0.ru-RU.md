@@ -17,3 +17,4 @@
 
 - [Глава 0](chapter-0.ru-RU.md)
 - [Глава 1](chapter-1.ru-RU.md)
+- [Глава 2](chapter-2.ru-RU.md)

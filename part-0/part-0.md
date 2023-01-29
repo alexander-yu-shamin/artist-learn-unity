@@ -17,3 +17,4 @@ This chapter focuses on the main tools and resources that you have to work with:
 
 - [Chapter 0](chapter-0.md)
 - [Chapter 1](chapter-1.md)
+- [Chapter 2](chapter-2.md)
