@@ -57,7 +57,7 @@
 ---
 
 - [Цели](goals.ru-RU.md)
-- [Введение](part-0/part-0.ru-RU.md)
+- [Часть 0](part-0/part-0.ru-RU.md)
 - [Часть 1](part-1/part-1.ru-RU.md)
 - [Часть 2](part-2/part-2.ru-RU.md)
 - [Часть 3](part-3/part-3.ru-RU.md)

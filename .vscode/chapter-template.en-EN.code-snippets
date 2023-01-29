@@ -1,0 +1,18 @@
+{
+	"chapter template en-EN": {
+		"prefix": "",
+		"body": [
+			"# Chapter ${1:N}",
+			"",
+			"## Goals",
+			"",
+			"## Steps",
+			"",
+			"## Reflection",
+			"",
+			"## Notes ",
+			""
+		],
+		"description": "template for chapter"
+	}
+}

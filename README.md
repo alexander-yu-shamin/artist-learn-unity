@@ -53,7 +53,7 @@ Any comments and suggestions are welcome.
 ---
 
 - [Goals](goals.md)
-- [Intro](part-0/part-0.md)
+- [Part 0](part-0/part-0.md)
 - [Part 1](part-1/part-1.md)
 - [Part 2](part-2/part-2.md)
 - [Part 3](part-3/part-3.md)
