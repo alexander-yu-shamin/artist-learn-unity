@@ -1,5 +1,5 @@
 <div align="center">
-## **Anastasia Zazimko**
+<h2><strong>Anastasia Zazimko</strong></h2>
 
 <div align="left">
 
