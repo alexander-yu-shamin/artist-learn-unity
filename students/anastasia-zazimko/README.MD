@@ -1,5 +1,5 @@
 <div align="center">
-#Anastasia Zazimko
+## **Anastasia Zazimko**
 
 <div align="left">
 
